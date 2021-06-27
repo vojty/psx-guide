@@ -1,0 +1,9 @@
+\contentsline {table}{\numberline {1}{\ignorespaces Playstation memory map}}{10}{table.1}%
+\contentsline {table}{\numberline {2}{\ignorespaces KSEG2 memory map}}{10}{table.2}%
+\contentsline {table}{\numberline {3}{\ignorespaces \texttt {SCPH1001.BIN} BIOS checksums}}{11}{table.3}%
+\contentsline {table}{\numberline {4}{\ignorespaces R3000 CPU general purpose registers}}{17}{table.4}%
+\contentsline {table}{\numberline {5}{\ignorespaces R3000 CPU special purpose registers}}{18}{table.5}%
+\contentsline {table}{\numberline {6}{\ignorespaces 16 to 32bit conversion: influence of sign extension}}{24}{table.6}%
+\contentsline {table}{\numberline {7}{\ignorespaces Special cases in divisions}}{59}{table.7}%
+\contentsline {table}{\numberline {8}{\ignorespaces DMA Channel Control register description}}{98}{table.8}%
+\contentsline {table}{\numberline {9}{\ignorespaces Anatomy of cached address 0x80005384}}{171}{table.9}%
